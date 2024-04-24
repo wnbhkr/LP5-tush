@@ -1,0 +1,9 @@
+HPC Terminal Commands:- 
+--------------------------
+
+g++ -fopenmp programname.cpp -o programname
+
+export OMP_NUM_THREADS = 4
+
+./programname
+
